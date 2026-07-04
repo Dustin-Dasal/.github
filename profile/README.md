@@ -18,24 +18,20 @@ With a strong background in network operations, infrastructure management, and c
 Django | Python | REST APIs | PostgreSQL | Multi-tenant Architecture
 
 **Frontend**  
-Next.js | React | Tailwind CSS | HTMX | Alpine.js | Responsive Design
+Tailwind CSS | HTMX | Responsive Design
 
 **Infrastructure & Operations**  
-Active Directory | PowerShell | Veeam | Checkmk | Docker | Linux | Cloud Platforms (DigitalOcean, Cloudflare) | GitHub Workflows
+Active Directory | PowerShell | Veeam | Cisco | Docker | Linux | Cloud Platforms | GitHub Workflows
 
 **Other**  
-Security Best Practices | E2E Testing (Playwright) | CI/CD | Performance Optimization | Data Privacy & Compliance
+Security Best Practices | CI/CD | Performance Optimization | Data Privacy & Compliance
 
 ### Featured Work
-- **AxiaOS** — Multi-tenant church management SaaS platform featuring People 360° profiles, Giving, Events, Volunteers, Check-in, and more. Built with Django + Next.js.  
-  [Explore the project](https://github.com/DustinDasal/axiaos) (update with actual repo links)
-- Additional repositories showcasing infrastructure automation, full-stack applications, and open-source contributions will be highlighted here.
+- **AxiaOS** — Multi-tenant church management SaaS platform featuring People 360° profiles, Giving, Events, Volunteers, Check-in, and more. Built with Django  
 
 ### Let's Connect
 Interested in discussing a project or collaboration?  
-- **Email**: [your-professional-email@domain.com] (e.g., consulting@dustindasal.com or Proton Mail)  
-- **Website**: [axiaos.app](https://axiaos.app) (or your professional site)  
-- **LinkedIn**: [linkedin.com/in/dustindasal] (update with your profile)
+- **Email**: ddasal@pm.me
 
 Open to select consulting engagements and development partnerships that align with high-quality, secure, and scalable solutions.
 
