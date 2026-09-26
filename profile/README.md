@@ -1,40 +1,29 @@
 # Dustin Dasal
 
-## IT Consulting & Full-Stack Development
+I write software for the back office and the network. Nearly thirty years of keeping both running is why the products are shaped the way they are.
 
-Experienced IT leader and full-stack developer delivering robust enterprise solutions, scalable web applications, and modern SaaS platforms.
+I started on the bench, repairing printers and PCs. I became a Novell CNE, then a Cisco CCNA and CCDA. I worked production networks through the dot-com years, including FTD, 1-800-Flowers, and Intuit, and then spent years at Cisco with national accounts and with small businesses in southwest Missouri. I stepped out to modernize the technology at James River Church and Convoy of Hope. Cisco recruited me back. Later I was vice president of service delivery at ISG Technology, and Veeam recruited me to grow the business across the Midwest.
 
-With a strong background in network operations, infrastructure management, and custom software development, I help organizations modernize their technology stack, streamline operations, and build secure, maintainable systems.
+I started writing software to close gaps in the back office of a business I owned. I still build that kind of system. The person on the phone, in the truck, or at the front desk should be able to find the problem and finish the job.
 
-### Services
-- **IT Consulting & Infrastructure** — Network architecture, Active Directory, systems automation, monitoring, and DevOps practices.
-- **Full-Stack Development** — End-to-end web applications with modern frameworks and clean, scalable architecture.
-- **SaaS Platform Development** — Multi-tenant solutions tailored for business and organizational needs.
-- **Custom Software Solutions** — Automation, integrations, and specialized tools for operational efficiency.
+## Selected work
 
-### Expertise & Technologies
+- **[AxiaOS](https://axiaos.app)** — Church management for a congregation that has outgrown a pile of separate tools. People, giving, events, volunteers, and check-in on one multi-tenant platform. Django.
+- **[ShopBoard](https://useshopboard.com)** — The day board for a one-to-eight person HVAC, plumbing, or electrical shop. Quote, dispatch, do the work, get paid. Django and HTMX.
+- **[LatticeDDI](https://latticeddi.com)** — Software-only DDI. One catalog for the plan and the leases, scale-out DHCP on a shared store, and DNS updates that follow the lease into Active Directory or BIND. Help desk and network engineering share one search. Go.
+- **Space On Hold** — Booking for a venue, studio, or other space the owner already runs. A guest takes an open time, pays the deposit, and provides the files the booking requires.
+- **SeedBench** — Early. A workbench for a registered seed technologist: identification and the calculations the lab already trusts, used beside the microscope and exported into the system of record. Next.js.
 
-**Backend & Frameworks**  
-Django | Python | REST APIs | PostgreSQL | Multi-tenant Architecture
+## How I build
 
-**Frontend**  
-Tailwind CSS | HTMX | Responsive Design
+Most of the product work is **Django** and **Python** on **PostgreSQL**, multi-tenant in the data model, with **HTMX** and **Tailwind** on server-rendered pages. Lattice is **Go**. SeedBench is **Next.js**. Delivery is **Docker** on **Linux**, with **GitHub Actions** on the pipeline.
 
-**Infrastructure & Operations**  
-Active Directory | PowerShell | Veeam | Cisco | Docker | Linux | Cloud Platforms | GitHub Workflows
+Cisco, Active Directory, DHCP and IP address management, Veeam, and the automation around them are still part of how I design a system. The software sits on the operational path.
 
-**Other**  
-Security Best Practices | CI/CD | Performance Optimization | Data Privacy & Compliance
+## Work with me
 
-### Featured Work
-- **AxiaOS** — Multi-tenant church management SaaS platform featuring People 360° profiles, Giving, Events, Volunteers, Check-in, and more. Built with Django  
+I take a small number of development and consulting engagements. A product that has to be right in production. A back office that is still a spreadsheet. A network problem that needs software.
 
-### Let's Connect
-Interested in discussing a project or collaboration?  
-- **Email**: ddasal@pm.me
+**[ddasal@pm.me](mailto:ddasal@pm.me)**
 
-Open to select consulting engagements and development partnerships that align with high-quality, secure, and scalable solutions.
-
----
-
-*Missouri-based | Available for remote and select on-site engagements*
+Southwest Missouri · remote, and on-site when the work calls for it
